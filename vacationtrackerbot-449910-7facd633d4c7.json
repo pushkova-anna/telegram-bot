@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vacationtrackerbot-449910",
+  "private_key_id": "7facd633d4c79d0d34242628f754a1881a553a07",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCrSAzF7Ikpcmnf\nRS/4r8TzMD6ktc9lpBpqv0NrNNF0X4DGHQRm5JqRNdX5ve6TaYEEUfGu1+jvWltC\nr3gdAL1k8XRXizTYQbqw8ZP81akcosQzrLYTVnxL/7QIaOGq9OTX5G1eLraL59Tq\ntiZXnyHDwJJSyTy7qgLVuTz7vDePPQUlvN3lY7wsDBm16Bvsbfxlxg7P6HABPABW\nGI8Dn9D1u178iwOgi/HjfGAGLRKV4+Jx8fzARKglwD/1XskM3z/1LkAnbMfPam6o\nHKj99aRXUefVr5n8MXSlQ6NkQKYpzwWAOaZzBVpa5ZJeT4lnk1NlYdHcwoKt2TPF\nFjkhzkExAgMBAAECggEAHdikQSkCjbJeOIW54j/etfHGOLVlunRqFgfWG6xMg1bQ\n/bS4u6VCOeODsc0i8ZUE4lfVIX6GHI9GL8ybxZIHbruUZlzfjH+HpKWz/+7LVS4X\nullyMNR1PFkGaiC8kimyZtxrImpJbP+s3ml3LPWR0KaR2NMwPhNWAyAQPF2D4PWb\n6P6cKRDiqFbrjMFIViBVyuwrolq5CQ5rSWxeOZ/gx/vqYIU+d6pu3p5L3d12AovE\n1OYQ2wbbHnl0r2VMQjfratWMOGF7N5sKv4ayw4y17A6AfkIwGIxQPvIsCIfVfhcj\nVd5jc3ZMhmy2U9pYn7mpezZUVBC8dQ2Wj19QP9XCsQKBgQDiW60rdoJM/MHUcwMB\n0b18EXpD8A7h1DoVkMg0NVUnRMP5xEkesDnK5+H6v9iyFjfFXWXC+AESXYUXFSRi\n70IziclYmYbfGxZOCMtJNO4N7moFib/0G6ahp9gaFV3Jtn9Ro3lEIVgjGKTNiYlx\ncd2wdRt0mPu+9VE/1sTXfmeOQwKBgQDBtgJPiZP3z2aEqdB0O6wFDa8WI2f17P9P\nHKhTf4RD1RYwIIEK7/EqRuXAA61UZLt17PCGJ39BYB1RvrzfW0zwYbA/Brs8hNgQ\nmp9sSc24G4Nxv0ccRCdGlm2IK+s+l8qxsA7+HobtoDJQyf+mNx2IpX8iTLgjFi//\nefo7umaNewKBgCLntCpxmeI5T8JtAdez+h45q7ryN7lHOrW8n8K9PqZRik7nn8bl\nsePCIizCjK3ZkzwSDPElwTSNy0ol7nh7IKBF7RCGjC+3Q5dA7+gYC2WGkD7OYRVJ\ndkaTVVWgWdgTFksGhFqnMaon0LIJNXKS9naReGxgcuGdfqvzeGMqkNl1AoGBALOF\n+9Q8u65BP1CZlH/0QXMZgHdy7skjEGYAOBvSJQE8fWiy5wT85DN7Kzft8HgzNuyO\nX0blWfF7oxB8Rcx2b/KjhlSS53mp4BhbRH52U7pZfVMwozWWEBRCG1bE5SrIQGi2\nst5d6kxVV+w5mL0xfSSDxDREh660xFzvbbJnCN37AoGBAKtfdNlS+AjQvdlKaVUv\n9rcjBA05I4a2/SvQB3sO/ptxgnT3iMC0hLz7A9iZmTEXIuXXVeV+riOl3n61fRqE\neS/CT7eYRAbv4y6ckWsgRgUk8uE6m0T8hGQz6TGy55V9tG5/XinjFLxcqDJnLkOO\nvWNkIyUVRku+pelxrki8lqi1\n-----END PRIVATE KEY-----\n",
+  "client_email": "vacation-bot@vacationtrackerbot-449910.iam.gserviceaccount.com",
+  "client_id": "113139859319974961574",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vacation-bot%40vacationtrackerbot-449910.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
